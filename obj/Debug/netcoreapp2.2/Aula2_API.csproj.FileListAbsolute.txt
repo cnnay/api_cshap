@@ -1,0 +1,14 @@
+C:\Users\fic\Documents\Aula2_API\bin\Debug\netcoreapp2.2\Aula2_API.deps.json
+C:\Users\fic\Documents\Aula2_API\bin\Debug\netcoreapp2.2\Aula2_API.runtimeconfig.json
+C:\Users\fic\Documents\Aula2_API\bin\Debug\netcoreapp2.2\Aula2_API.runtimeconfig.dev.json
+C:\Users\fic\Documents\Aula2_API\bin\Debug\netcoreapp2.2\Aula2_API.dll
+C:\Users\fic\Documents\Aula2_API\bin\Debug\netcoreapp2.2\Aula2_API.pdb
+C:\Users\fic\Documents\Aula2_API\obj\Debug\netcoreapp2.2\Aula2_API.csprojAssemblyReference.cache
+C:\Users\fic\Documents\Aula2_API\obj\Debug\netcoreapp2.2\Aula2_API.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\Aula2_API\obj\Debug\netcoreapp2.2\Aula2_API.RazorAssemblyInfo.cache
+C:\Users\fic\Documents\Aula2_API\obj\Debug\netcoreapp2.2\Aula2_API.RazorAssemblyInfo.cs
+C:\Users\fic\Documents\Aula2_API\obj\Debug\netcoreapp2.2\Aula2_API.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\Aula2_API\obj\Debug\netcoreapp2.2\Aula2_API.AssemblyInfo.cs
+C:\Users\fic\Documents\Aula2_API\obj\Debug\netcoreapp2.2\Aula2_API.RazorTargetAssemblyInfo.cache
+C:\Users\fic\Documents\Aula2_API\obj\Debug\netcoreapp2.2\Aula2_API.dll
+C:\Users\fic\Documents\Aula2_API\obj\Debug\netcoreapp2.2\Aula2_API.pdb
